@@ -11,5 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^23.2.0",
+    "punycode.js": "^2.3.1"
   }
 }
